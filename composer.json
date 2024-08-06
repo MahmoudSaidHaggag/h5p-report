@@ -1,5 +1,5 @@
 {
-    "name": "h5p/h5p-report",
+    "name": "haggag/h5p-report",
     "type": "library",
     "description": "H5P Report functionality in PHP",
     "keywords": ["h5p","hvp","interactive","content","quiz"],
